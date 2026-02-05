@@ -15,22 +15,22 @@ An interactive Power BI dashboard analyzing car sales performance using KPIs, tr
 - YTD Cars Sold
 - MTD comparison metrics
 
-#Visualizations
-Weekly sales trend (line chart)
-Sales by body style (donut chart)
-Sales by color
-Dealer-wise sales map
-Company-wise sales table with conditional formatting
+## Visualizations
+- Weekly sales trend (line chart)
+- Sales by body style (donut chart)
+- Sales by color
+- Dealer-wise sales map
+- Company-wise sales table with conditional formatting
 
 #Advanced Power BI Features
-Drill-through navigation using buttons
-Slicers for:
-Body Style
-Dealer Region
-Transmission
-Engine Type
-Dynamic tooltips
-Dark theme UI design
+- Drill-through navigation using buttons
+-Slicers for:
+  - Body Style
+  - Dealer Region
+  - Transmission
+  - Engine Type
+  - Dynamic tooltips
+- Dark theme UI design
 
 Dashboard:
 Image 1: <img width="1332" height="792" alt="Car Sales Dashboard Image 1" src="https://github.com/user-attachments/assets/6a388987-9ae8-4f3b-b859-c7353b91766c" />
