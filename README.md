@@ -1,12 +1,19 @@
 # Car-Sales-Dashboard-Analysis
 
+## 🟡 Project Overview
 An interactive Power BI dashboard analyzing car sales performance using KPIs, trends, filters, and button to navigation.
 
-#KPIs
-YTD Total Sales
-YTD Average Sales Price
-YTD Cars Sold
-MTD comparison metrics
+##  Tools & Technologies
+- **Microsoft Power BI**
+- **Power Query** (Data Cleaning & Transformation)
+- **DAX** (Measures & KPIs)
+- **Excel  Dataset**
+
+## KPIs
+- YTD Total Sales
+- YTD Average Sales Price
+- YTD Cars Sold
+- MTD comparison metrics
 
 #Visualizations
 Weekly sales trend (line chart)
